@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## references
+https://zenn.dev/lilac/books/37bdf5d90b5f9b
 
 Things you may want to cover:
 
